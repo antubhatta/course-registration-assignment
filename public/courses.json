@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/1bFFJCS/Antu-photos.webp",
+      "title": "Introduction to Programming",
+      "description": "Learn the fundamentals of programming with this introductory course. Suitable for beginners.",
+      "price": 15000,
+      "credit": 1
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/XxG73ZW/ds.jpg",
+      "title": "Data Structures and Algorithms",
+      "description": "Master the concepts of data structures and algorithms to solve complex problems efficiently.",
+      "price": 25000,
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/C1b817s/Database-Management-System.jpg",
+      "title": "Database Management Systems",
+      "description": "Build dynamic websites and web applications using the latest web technologies.",
+      "price": 10000,
+      "credit": 10
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/cYGFscR/web-development1.png",
+      "title": "Web Development Fundamentals",
+      "description": "Learn how to design and manage databases and write SQL queries effectively.",
+      "price": 35000,
+      "credit": 5
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/25PSMzs/os.jpg",
+      "title": "Operating Systems",
+      "description": "Explore the basics of machine learning and its applications in various fields.",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/dkRSJpm/ai.jpg",
+      "title": "Artificial Intelligence",
+      "description": "Understand the principles of computer networks and how to secure them.",
+      "price": 23000,
+      "credit": 2
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/Ks35HCT/Computer-Network.webp",
+      "title": "Computer Networks",
+      "description": "Learn about network protocols, routing, and data transmission.",
+      "price": 35000,
+      "credit": 5
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/GMWgsLW/cs.jpg",
+      "title": "Software Engineering Principles",
+      "description": "Master software development methodologies and best practices.",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/h8BhGJm/sep.jpg",
+      "title": "Cybersecurity Fundamentals",
+      "description": "Become a cybersecurity expert and learn ethical hacking techniques.",
+      "price": 23000,
+      "credit": 2
+    }
+  ]
+  

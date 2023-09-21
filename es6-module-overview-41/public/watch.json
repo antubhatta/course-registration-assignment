@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Seiko SKX007", "price": 250 },
+    { "id": 2, "name": "Casio G-Shock DW5600", "price": 100 },
+    { "id": 3, "name": "Rolex Submariner", "price": 10000 },
+    { "id": 4, "name": "Timex Weekender", "price": 40 },
+    { "id": 5, "name": "Fossil Grant", "price": 120 },
+    { "id": 6, "name": "Omega Seamaster", "price": 5000 },
+    { "id": 7, "name": "Tag Heuer Carrera", "price": 7000 },
+    { "id": 8, "name": "Citizen Eco-Drive", "price": 150 },
+    { "id": 9, "name": "Bulova Precisionist", "price": 300 },
+    { "id": 10, "name": "Tissot T-Touch", "price": 450 }
+  ]

@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Stainless Steel Quartz Watch",
+      "price": 299.99
+    },
+    {
+      "id": 2,
+      "name": "Classic Leather Strap Watch",
+      "price": 199.95
+    },
+    {
+      "id": 3,
+      "name": "Digital Sports Watch",
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "name": "Elegant Rose Gold Timepiece",
+      "price": 499.50
+    },
+    {
+      "id": 5,
+      "name": "Smart Fitness Tracker",
+      "price": 149.99
+    },
+    {
+      "id": 6,
+      "name": "Chronograph Pilot's Watch",
+      "price": 349.00
+    },
+    {
+      "id": 7,
+      "name": "Diver's Waterproof Watch",
+      "price": 229.95
+    },
+    {
+      "id": 8,
+      "name": "Fashionable Designer Watch",
+      "price": 289.75
+    },
+    {
+      "id": 9,
+      "name": "Minimalist Silver Dial Watch",
+      "price": 99.99
+    },
+    {
+      "id": 10,
+      "name": "Luxury Automatic Skeleton Watch",
+      "price": 699.99
+    },
+    {
+      "id": 11,
+      "name": "Digital Smartwatch",
+      "price": 199.00
+    },
+    {
+      "id": 12,
+      "name": "Wooden Dial Eco-Friendly Watch",
+      "price": 129.50
+    },
+    {
+      "id": 13,
+      "name": "Vintage Mechanical Pocket Watch",
+      "price": 189.95
+    },
+    {
+      "id": 14,
+      "name": "Sports Chronograph Wristwatch",
+      "price": 259.99
+    },
+    {
+      "id": 15,
+      "name": "Sleek Black Stainless Steel Watch",
+      "price": 149.99
+    },
+    {
+      "id": 16,
+      "name": "Gold Plated Luxury Timepiece",
+      "price": 799.00
+    },
+    {
+      "id": 17,
+      "name": "Rugged Outdoor Adventure Watch",
+      "price": 349.95
+    },
+    {
+      "id": 18,
+      "name": "Diamond-Encrusted Glamour Watch",
+      "price": 1599.99
+    },
+    {
+      "id": 19,
+      "name": "Smart GPS Fitness Tracker",
+      "price": 169.00
+    },
+    {
+      "id": 20,
+      "name": "Aviator's Flight Chronograph",
+      "price": 429.50
+    }
+  ]
+  
